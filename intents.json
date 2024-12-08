@@ -1,0 +1,160 @@
+[
+    {
+        "tag": "greeting",
+        "patterns": [
+            "Hi",
+            "Hello",
+            "Hey",
+            "How are you",
+            "What's up",
+            "Namaste"
+        ],
+        "responses": [
+            "Namaste! How can I assist you with yoga today?",
+            "Hello! Ready to start your yoga journey?",
+            "Hi there! Let's stretch and relax."
+        ]
+    },
+    {
+        "tag": "timeless_relics",
+        "patterns": [
+            "Discovering timeless relics",
+            "Artifacts from lost civilizations",
+            "The allure of ancient mysteries"
+        ],
+        "responses": [
+            "Timeless relics are ancient artifacts and objects that hold historical and cultural significance, preserving the stories of our ancestors.",
+            "Archaeologists and historians continue to unearth relics that shed light on human history and civilization."
+        ]
+    },
+    {
+        "tag": "yoga_benefits",
+        "patterns": [
+            "What are the benefits of yoga?",
+            "Why should I practice yoga",
+            "How does yoga improve my health"
+        ],
+        "responses": [
+            "Yoga helps increase flexibility, improve strength, and reduce stress. It also promotes mental clarity and emotional well-being.",
+            "Regular yoga practice improves balance, posture, and overall body awareness.",
+            "Yoga enhances your mind-body connection, boosts energy levels, and helps you achieve a sense of inner peace."
+        ]
+    },
+    {
+        "tag": "yoga_for_beginners",
+        "patterns": [
+            "Yoga for beginners",
+            "What poses are good for a beginner",
+            "I'm new to yoga, where should I start"
+        ],
+        "responses": [
+            "Start with basic poses like Mountain Pose, Downward Dog, and Child’s Pose. These will help build strength and flexibility.",
+            "For beginners, focus on breathing and holding simple poses to get comfortable with the practice.",
+            "Try a gentle yoga flow, including poses like Cat-Cow and Seated Forward Fold to ease into the practice."
+        ]
+    },
+    {
+        "tag": "yoga_for_relaxation",
+        "patterns": [
+            "Yoga for relaxation",
+            "Calming yoga poses",
+            "How can yoga help me relax"
+        ],
+        "responses": [
+            "Try poses like Child’s Pose, Legs-Up-The-Wall, and Savasana to induce relaxation and calm your nervous system.",
+            "Restorative yoga with long-held poses can deeply relax your body and mind.",
+            "Breathing exercises combined with gentle stretches can be incredibly effective for relaxation and stress relief."
+        ]
+    },
+    {
+        "tag": "advanced_yoga_poses",
+        "patterns": [
+            "Advanced yoga poses",
+            "Can you suggest difficult yoga poses",
+            "Yoga for experienced practitioners"
+        ],
+        "responses": [
+            "For a challenge, try poses like the Headstand, Crow Pose, or the Wheel Pose.",
+            "Advanced poses like the Scorpion Pose and King Pigeon Pose require strength and flexibility, perfect for experienced yogis.",
+            "The Arm Balance and Advanced Backbends like the King Dancer Pose can take your practice to the next level."
+        ]
+    },
+    {
+        "tag": "yoga_for_mindfulness",
+        "patterns": [
+            "Yoga for mindfulness",
+            "How does yoga help with mindfulness",
+            "Can yoga improve focus and concentration"
+        ],
+        "responses": [
+            "Yoga encourages mindfulness through breath awareness and body awareness. Poses like Tree Pose and Warrior help develop focus.",
+            "Mindfulness meditation combined with yoga can enhance concentration and cultivate a deeper sense of presence.",
+            "Practicing mindfulness in yoga is about being present in each moment, paying attention to your breath and movements."
+        ]
+    },
+    {
+        "tag": "yoga_for_weight_loss",
+        "patterns": [
+            "Can yoga help with weight loss",
+            "Yoga for burning fat",
+            "How does yoga aid in weight management"
+        ],
+        "responses": [
+            "Power yoga or Vinyasa flow can increase heart rate and help burn calories.",
+            "Yoga may not be as intense as cardio, but it can help with weight loss by reducing stress and improving overall physical fitness.",
+            "Combine yoga with a balanced diet for weight loss. Poses like Warrior III and Plank will strengthen muscles and improve metabolism."
+        ]
+    },
+    {
+        "tag": "yoga_for_strength",
+        "patterns": [
+            "Yoga for strength",
+            "Which yoga poses build strength",
+            "How can yoga improve my strength"
+        ],
+        "responses": [
+            "Strength-building poses include Plank, Warrior I, and Chaturanga. These poses engage core and upper body muscles.",
+            "Try Ashtanga or Power Yoga for a practice that focuses on building strength and endurance.",
+            "Incorporate poses like Boat Pose and Chair Pose to build lower body and core strength."
+        ]
+    },
+    {
+        "tag": "types_of_yoga",
+        "patterns": [
+            "What are the different types of yoga",
+            "Tell me about the styles of yoga",
+            "How many types of yoga are there"
+        ],
+        "responses": [
+            "There are several types of yoga: Hatha, Vinyasa, Ashtanga, Kundalini, and Bikram.",
+            "Hatha Yoga focuses on basic poses and breath control, while Vinyasa links breath to movement in a dynamic flow.",
+            "Ashtanga involves a set sequence of poses, while Kundalini focuses on awakening energy through breath, movement, and chanting."
+        ]
+    },
+    {
+        "tag": "yoga_for_mental_health",
+        "patterns": [
+            "How does yoga help with mental health",
+            "Can yoga reduce anxiety",
+            "Yoga for depression and stress"
+        ],
+        "responses": [
+            "Yoga helps release tension and calms the mind, making it great for reducing anxiety and managing stress.",
+            "Practicing mindfulness in yoga can be an effective tool for managing depression and boosting mental well-being.",
+            "Incorporate deep breathing exercises and slow, mindful movements to reduce stress and improve your mood."
+        ]
+    },
+    {
+        "tag": "breathing_techniques",
+        "patterns": [
+            "What are some yoga breathing techniques",
+            "Teach me yoga breathing",
+            "How do I practice pranayama"
+        ],
+        "responses": [
+            "Try Ujjayi breathing for focus or Kapalbhati to clear your mind and energize your body.",
+            "Nadi Shodhana (alternate nostril breathing) is great for balancing energy and calming your nervous system.",
+            "Bhastrika (bellows breath) is an energizing pranayama technique to increase vitality and mental clarity."
+        ]
+    }
+]
