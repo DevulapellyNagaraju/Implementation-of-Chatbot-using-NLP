@@ -66,20 +66,6 @@ The application will open in your web browser at `http://localhost:8501`.
 
 Streamlit will set up the environment and deploy your app. Your YogaBot will be live with a public URL!
 
----
-
-## **Folder Structure**
-```
-YogaBot/
-├── data/                   # Training data for the NLP model
-├── models/                 # Saved NLP models
-├── app.py                  # Main Streamlit app file
-├── intents.json            # Intents and responses
-├── requirements.txt        # Dependencies
-├── README.md               # Project documentation
-```
-
----
 
 ## **Technologies Used**
 - **Python**: Programming language.
